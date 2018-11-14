@@ -60,7 +60,7 @@ Name
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved
 //earlier from the Azure Portal. $host = "value of Data Source";
 $host = "j1juric-mysqldbserver.mysql.database.azure.com";
-$user = "j1juric";
+$user = "j1juric@j1juric-mysqldbserver";
 $pwd = "HdVb.332";
 $db = "j1juricdb";
 // Connect to database.
